@@ -1,7 +1,7 @@
 --[[-------------------------------------------------------------------------
 Language: Korean
 Created Date: 25.12.2021
-Last Update: 19.07.2022
+Last Update: 12.08.2022
 Translated by: joon00 (https://steamcommunity.com/profiles/76561198155974087)
 ---------------------------------------------------------------------------]]
 
@@ -174,10 +174,10 @@ hud.escaping = "탈출 중..."
 --[[-------------------------------------------------------------------------
 EQ
 ---------------------------------------------------------------------------]]
-lang.eq_lmb = "좌클릭 - 선택"
-lang.eq_rmb = "우클릭 - Drop"
-lang.eq_hold = "좌클릭 유지 - 아이템 옮기기"
-lang.eq_vest = "방탄복"
+lang.eq_lmb = "좌 클릭 - 선택"
+lang.eq_rmb = "우 클릭 - Drop"
+lang.eq_hold = "좌 클릭 유지 - 아이템 옮기기"
+lang.eq_vest = "조끼"
 lang.eq_key = "'%s' 를 눌러 EQ 열기"
 lang.eq_unknown = "알려지지않은 아이템"
 
@@ -185,7 +185,7 @@ lang.info = "정보"
 lang.author = "제작"
 lang.mobility = "기동성"
 lang.weight = "무게"
-lang.protection = "방호력"
+lang.protection = "방어력"
 
 lang.weight_unit = "kg"
 lang.eq_buttons = {
@@ -233,7 +233,7 @@ lang.random = "무작위"
 lang.buy = "구매"
 lang.refound = "환불"
 lang.none = "없음"
-lang.refounded = "모든 제거된 클래스가 환불되었습니다. %d 클래스 포인트를 흭득했습니다."
+lang.refounded = "클래스가 환불되었습니다. %d 클래스 포인트를 흭득했습니다."
 
 lang.details = {
 	details = "세부정보",
@@ -330,7 +330,7 @@ lang.gamemode_config = {
 --[[-------------------------------------------------------------------------
 Scoreboard
 ---------------------------------------------------------------------------]]
-lang.unconnected = "미연결됨"
+lang.unconnected = "미연결"
 
 lang.scoreboard = {
 	name = "스코어보드",
